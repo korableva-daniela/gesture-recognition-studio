@@ -22,3 +22,16 @@ Gesture Recognition Studio
 - Контроль версий: Git, GitHub
 
 Автор: Кораблева Даниела
+## Установка и запуск
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/username/gesture-recognition-studio.git
+cd gesture-recognition-studio
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Запуск программы
+python main.py
+
